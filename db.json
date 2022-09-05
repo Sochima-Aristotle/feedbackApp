@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 5,
+      "text": "A day made my God truely I am happy and I am rejoicing"
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "text": "On a day like this we just open champang for celebration"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "Chukwu i ka na eme ya, jisikwa ike nnam chukwu eze"
+    },
+    {
+      "id": 4,
+      "rating": 2,
+      "text": "Biko a ka na mu ario gi maka nwannem Bem Ba, bikonu nye ya aru ike."
+    },
+    {
+      "text": "On a nutshall. Oluwa senu. Kene diri chukwu.",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "rating": "10",
+      "text": "amazing tool postman, this was added via postman.",
+      "id": 6
+    }
+  ]
+}
