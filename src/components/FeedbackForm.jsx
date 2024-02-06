@@ -1,4 +1,3 @@
-// import { isDisabled } from '@testing-library/user-event/dist/utils'
 import React, { useState, useContext, useEffect } from 'react'
 import RatingSelect from './RatingSelect'
 import Button from './shared/Button'
